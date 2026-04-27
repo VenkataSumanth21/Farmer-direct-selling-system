@@ -70,4 +70,4 @@ The frontend includes `netlify.toml`.
 - Base directory: `frontend`
 - Build command: `npm run build`
 - Publish directory: `frontend/dist`
-- Environment variable: `VITE_API_BASE_URL=https://farmer-direct-selling-api.onrender.com/api`
+- Environment variable: `VITE_API_BASE_URL=https://farmer-direct-selling-system.onrender.com/api`
