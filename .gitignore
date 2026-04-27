@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.deps/
+.deps_clean/
+db.sqlite3
+staticfiles/
+
+# Node
+node_modules/
+dist/
+deploy-source/
+*.zip
+
+# Environment
+.env
+.env.*
+
+# Editors and OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
